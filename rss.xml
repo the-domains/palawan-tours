@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Palawan tours is our specialty]]></title>
         <description><![CDATA[Palawan tours is our specialty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/palawan-tours/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 18:13:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 18:17:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/palawan-tours/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PHILIPPINE TOURS]]></title>
+            <description><![CDATA[<article><h1>PHILIPPINE TOURS</h1><p>Below our recommended Philippine Tours that includes Palawan experience.</p></article>]]></description>
+            <link>https://thegrid.ai/palawan-tours/6248135c-77be-4cb3-8320-b9efd09b03a4/index.html</link>
+            <guid isPermaLink="false">6248135c-77be-4cb3-8320-b9efd09b03a4</guid>
+            <pubDate>Sat, 05 Mar 2016 18:16:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Palawan tours is our specialty! With years of experience with Tour operations in the Philippines, we bring you the best tours and best experiences!]]></title>
             <description><![CDATA[<h1>Palawan tours is our specialty! With years of experience with Tour operations in the Philippines, we bring you the best tours and best experiences!</h1>]]></description>
-            <link>undefined1343257d-dcc7-4c6f-acf6-6440a200e72d/index.html</link>
+            <link>https://thegrid.ai/palawan-tours/1343257d-dcc7-4c6f-acf6-6440a200e72d/index.html</link>
             <guid isPermaLink="false">1343257d-dcc7-4c6f-acf6-6440a200e72d</guid>
             <pubDate>Sat, 05 Mar 2016 18:13:32 GMT</pubDate>
         </item>
